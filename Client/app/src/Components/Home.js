@@ -75,7 +75,7 @@ function Home() {
              if(response.data.affectedRows > 0){
                 // debugger
                 fetchData();
-                document.getElementById("btnradio1").checked = true;
+                // document.getElementById("btnradio1").checked = true;
              }
             else{
                 debugger
